@@ -6,11 +6,12 @@
 - Enjoy !
 
 💻 Preview :
--
--
--
--
--
+
+<img src="https://github.com/DremoTrue/QueenShare/blob/main/preview/1.png">
+
+<img src="https://github.com/DremoTrue/QueenShare/blob/main/preview/2.PNG">
+
+<img src="https://github.com/DremoTrue/QueenShare/blob/main/preview/3.PNG">
 
 📜 Conclusion:
 QueenShare is an old abandoned project, it is not in the best shape, the code is not optimized, see disgusting for some. However it works well and is very easy to use.
