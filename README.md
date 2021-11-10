@@ -16,5 +16,6 @@
 📜 Conclusion:
 QueenShare is an old abandoned project, it is not in the best shape, the code is not optimized, see disgusting for some. However it works well and is very easy to use.
 This work is completely Open-Source, it's free. Feel free to give me feedback (positive or negative) is put a small ⭐️+1 star on this git.
+It supports multiple formats.
 
 📡 Contact me on the discord : <strong> Dremo#5683 </strong>
