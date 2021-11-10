@@ -1,0 +1,1 @@
+var upload = new FileUploadWithPreview('myUniqueUploadId')
